@@ -1,0 +1,5 @@
+date_utc:      2026-08-20T12:33:42Z
+claude_cli:    2.1.237 (Claude Code)
+os:            Linux 6.8.0-136-generic x86_64
+runs_per_arm:  3
+prompt:        寫一個讀 CSV、計算某個數值欄位平均值與標準差的函式。
